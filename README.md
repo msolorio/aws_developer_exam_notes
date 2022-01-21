@@ -1,10 +1,8 @@
 # AWS Certified Developer Associate Exam Training DVA-C01 
-[https://www.udemy.com/course/aws-certified-developer-associate-exam-training/](https://www.udemy.com/course/aws-certified-developer-associate-exam-training/)
-
+[https://www.udemy.com/course/aws-certified-developer-associate-exam-training/](https://www.udemy.com/course/aws-certified-developer-associate-exam-training/)<br>
 Instructor: Neal Davis
 
 ## Exam DVA-C01
-
 - 130 Minutes
 - $150
 - $20/practice exam
@@ -14,7 +12,7 @@ Instructor: Neal Davis
 
 [See Slides for exam breakdown]
 
-## Exam Guide
+Exam Guide<br>
 [https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Exam-Guide.pdf](https://d1.awsstatic.com/training-and-certification/docs-dev-associate/AWS-Certified-Developer-Associate_Exam-Guide.pdf)
 
 ## About the Instructor
@@ -24,5 +22,5 @@ Instructor: Neal Davis
 - On linked in - [linked.com/in/nealkdavis](linked.com/in/nealkdavis)
 - On slack - digitalcloud.training/slack
 
-Challange Labs - Extra cost
+Challange Labs - Extra cost<br>
 [https://digitalcloud.training/](https://digitalcloud.training/)
